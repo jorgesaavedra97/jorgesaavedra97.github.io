@@ -1,0 +1,187 @@
+@import url('https://fonts.googleapis.com/css?family=Lato');
+
+body{
+	font-family: 'Lato', sans-serif
+}
+body{
+	color:#666;
+}
+
+h2 {
+	color:#030303;
+	font-size: 28px;
+    font-weight: 600
+}
+
+.section-1{
+			padding:30px;
+}
+
+.section-2{
+			padding:30px;
+			background-color:#DCDCDC;	
+}
+
+.section-3{
+			padding:30px;
+}
+
+.section-4{
+			padding:30px; 
+}
+.section-4{
+			background-color: #009688;
+			color:white;
+			text-align:center;
+			margin-top:0px;
+}
+
+.section-4 h2{
+			color:white;
+			padding-top:51px;
+			font-weight:600;
+}
+
+.imagen-1{
+		width:100%;
+}
+
+.imagen-3{
+		margin-left:143px;
+}
+
+ul {
+	list-style:none;
+	
+}
+
+i{
+	padding-right:10px;
+}
+
+.bloque{
+		text-align:center;
+		margin-top:40px;
+}
+
+.bloque p{
+		font-size:14px;
+}
+
+.bloque h3{
+		font-weight:600;
+		color:black;
+		font-size:17px;
+}
+
+.linea-center{
+			margin:0 auto;
+}
+
+.linea{
+    border-top: 3px solid #009688;
+   	width:30px;
+}
+
+.row {
+	margin-right: -15px;
+   	margin-left: -15px;
+    padding-top: 75px;
+    padding-bottom: 29px;
+}
+
+.titulo-p{
+		color:white;
+		margin-top:40px;
+}
+
+.titulo-center {
+		text-align:center;
+}
+
+.grade{
+		font-style:100px;
+		width:20PX;
+}
+
+.icon-grande{
+		font-size:30px;
+		text-align:center;
+		color:#009688;
+}
+
+.icon-pequeno{
+		font-size:50px;
+		color:#009688;
+}
+
+.parrafo{
+		color:white;
+		text-align:center;
+}
+
+
+input{
+	border-radius:30px;
+    width:409px;
+    height:34px;
+    margin-right:20px;
+    min-height:40px;
+
+}
+
+input{
+	display:inline-block;
+	outline:0px;
+	border-radius:100px;
+	border:0 transparent;
+	padding-left:20px;
+	margin: 3px 0 0 3px;
+}
+
+.btn{
+	border-radius: 100px;
+	background-color: #0096876e;
+	border-color: #0258506e;
+
+}
+
+.btn:hover{
+	background-color: #0258506e;
+}
+
+.input-boton .btn {
+	margin: 3px;
+    padding: 11px 37px;
+
+}
+
+.input-boton{
+	
+    display: inline-block;
+    outline:0px;
+    border-radius: 100px;
+    min-height: 52px;
+    margin-bottom:30px;
+    
+}
+
+.social-icon{
+		color: white;
+    	font-size: 40px;
+    	text-align: center;
+    	padding-top: 68px;
+    	margin-left: -98px;
+    	box-sizing: border-box;
+    	padding-bottom: 90px;
+}
+
+.social{
+		margin:0 15px;
+}
+
+
+
+
+
+
